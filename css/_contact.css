@@ -1,0 +1,49 @@
+.contact {
+  background-color: #36475e;
+}
+.contact h2,
+.contact p {
+  text-align: center;
+  color: #d5dae5;
+}
+.photo {
+  display: none;
+}
+.contact_content {
+  padding: 0 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+p.phone-number {
+  font-size: 24px;
+  font-weight: 600;
+  width: 220px;
+  margin: 0px auto 30px auto;
+  padding: 0 20px;
+  line-height: 50px;
+  color: #36475e;
+  background-color: #d5dae5;
+  border-radius: 2px;
+}
+@media all and (min-width: 700px) {
+  .contact h2,
+  .contact p {
+    text-align: left;
+  }
+  .photo {
+    width: 33%;
+    text-align: right;
+    display: inline-block;
+    padding: 0 40px 0 0;
+  }
+  .contact_content {
+    width: 66%;
+    padding: 0;
+    max-width: 420px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  p.phone-number {
+    margin: 0px 0 30px 0;
+  }
+}

@@ -1,0 +1,81 @@
+.services {
+  padding: 40px 0;
+}
+.services section {
+  padding: 30px 0 10px 0;
+  margin: 30px 0;
+}
+.services section .service-icon {
+  margin: 0 auto;
+}
+.services section h3 {
+  width: 100%;
+  text-align: center;
+  color: #36475e;
+}
+.services section p {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 0 10px 0;
+}
+.service-icon {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  border: 1px solid #36475e;
+  transition: background-color 0.1s linear;
+}
+.service-icon i {
+  width: 100px;
+  line-height: 100px;
+  color: #36475e;
+  text-align: center;
+  font-size: 30px;
+}
+.service-icon:hover {
+  background-color: #36475e;
+}
+.service-icon:hover i {
+  color: #eff2f8;
+}
+.service {
+  padding: 70px 0;
+  background-color: #d5dae5;
+}
+.service.light {
+  background-color: #eff2f8;
+}
+.service .icon {
+  display: none;
+  width: 160px;
+  text-align: center;
+  line-height: 160px;
+  background-color: #36475e;
+  color: #eff2f8;
+  font-size: 60px;
+  margin: 0 auto;
+}
+.service .content-wrapper {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.service .content-wrapper header {
+  width: 100%;
+}
+.service .content-wrapper header h2 {
+  text-align: center;
+}
+.service .content-wrapper p {
+  padding: 0 10px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.icon-container {
+  width: 400px;
+  display: inline-block;
+}
+.service-article {
+  display: inline-block;
+}

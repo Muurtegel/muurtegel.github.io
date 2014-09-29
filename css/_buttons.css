@@ -1,0 +1,16 @@
+.button-more {
+  background-color: transparent;
+  display: block;
+  width: 160px;
+  padding: 10px 0;
+  margin: 20px auto;
+  text-align: center;
+  color: #36475e;
+  border-radius: 2px;
+  border: 1px solid #36475e;
+  transition: background-color 0.1s linear;
+}
+.button-more:hover {
+  background-color: #36475e;
+  color: #fff;
+}
