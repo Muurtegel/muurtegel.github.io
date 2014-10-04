@@ -326,16 +326,22 @@ nav .container {
   display: inline-block;
   vertical-align: top;
 }
-p.phone-number {
+p.contact-box {
   font-size: 24px;
   font-weight: 600;
-  width: 220px;
+  width: 360px;
   margin: 0px auto 30px auto;
-  padding: 0 20px;
+  padding: 4px 20px;
   line-height: 50px;
   color: #36475e;
   background-color: #d5dae5;
   border-radius: 2px;
+}
+p.contact-box a {
+  font-size: 24px;
+}
+p.contact-box a:hover {
+  text-decoration: underline;
 }
 @media all and (min-width: 700px) {
   .contact h2,
