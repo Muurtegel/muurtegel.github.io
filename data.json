@@ -1,27 +1,5 @@
-[
-  {
-    "date": "2018-06-01",
-    "title": "This is title",
-    "content" : "This is content"
-  },
-  {
-    "date": "2018-06-02",
-    "title": "This is title 2",
-    "content": "This is content 2"
-  },
-  {
-    "date": "2018-06-03",
-    "title": "This is title 3",
-    "content": "This is content 3"
-  },
-  {
-    "date": "2018-06-04",
-    "title": "This is title 4",
-    "content": "This is content 4"
-  },
-  {
-    "date": "2018-06-05",
-    "title": "This is title 5",
-    "content": "This is content 5"
-  }
-]
+{
+  "week": "22",
+  "title": "This is title",
+  "content" : "This is content"
+}
