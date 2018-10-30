@@ -1,8 +1,0 @@
-# Quiet feet
-Week 23
-
-## Instruction
-Climb for 15 minutes without making sound with your feet. If you make a sound, start your route again.
-
-## Benefits
-Foot placement is very important. This exercise helps you to focus on your foot placement.
